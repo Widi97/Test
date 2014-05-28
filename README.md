@@ -1,8 +1,12 @@
 Test
 ====
 
-This is just a test
+This is just a test :D
 
-[ ] Marker
- - [ ] asd
- - [X] FINISH
+TODO
+====
+
+- [ ] Marker
+  - [ ] asd
+  - [X] FINISH
+ 
